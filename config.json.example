@@ -1,0 +1,6 @@
+{
+    "admin_wechat_ids": [],
+    "auto_auth": true,
+    "auto_admin": true,
+    "notify_on_auth": true
+}
