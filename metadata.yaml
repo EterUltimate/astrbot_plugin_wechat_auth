@@ -1,4 +1,4 @@
-name: astrbot_plugin_vtube_studio
+name: astrbot_plugin_wechat_auth
 display_name: 微信鉴权插件
 desc: 自动识别微信用户并将指定用户设为管理员
 version: 1.0.0
