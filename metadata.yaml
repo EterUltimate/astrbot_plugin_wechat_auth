@@ -1,7 +1,9 @@
 name: astrbot_plugin_wechat_auth
 display_name: 微信鉴权插件
 desc: 自动识别微信用户并将指定用户设为管理员
-version: 1.0.0
 author: EterUltimate
 repo: https://github.com/EterUltimate/astrbot_plugin_wechat_auth
-homepage: https://github.com/EterUltimate
+version: 1.1.0
+support_platforms:
+  - weixin_official_account
+astrbot_version: ">=4.16,<5"

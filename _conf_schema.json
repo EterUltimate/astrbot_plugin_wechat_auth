@@ -1,0 +1,23 @@
+{
+  "admin_wechat_ids": {
+    "description": "管理员微信用户ID列表",
+    "type": "array",
+    "default": [],
+    "hint": "首次发送消息的用户会自动添加到此列表（如果启用自动管理员）"
+  },
+  "auto_auth": {
+    "description": "是否启用自动鉴权",
+    "type": "bool",
+    "default": true
+  },
+  "auto_admin": {
+    "description": "是否自动将首次用户设为管理员",
+    "type": "bool",
+    "default": true
+  },
+  "notify_on_auth": {
+    "description": "是否在自动鉴权时发送通知",
+    "type": "bool",
+    "default": true
+  }
+}
